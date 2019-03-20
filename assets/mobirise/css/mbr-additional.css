@@ -2395,11 +2395,25 @@ body {
 }
 .cid-rkxEdkfzae {
   padding-top: 45px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffbfbf;
 }
 .cid-rkxEdkfzae P {
   color: #767676;
+}
+.cid-rlhK4Nr9x9 {
+  background: #e49999;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #e49999, #ffbfbf);
+}
+.cid-rlhK4Nr9x9 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rlhK4Nr9x9 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rkxMcZKMmh {
   padding-top: 0px;
