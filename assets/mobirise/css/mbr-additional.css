@@ -1881,51 +1881,6 @@ body {
 .cid-ruIo8ZRobN H2 {
   color: #fafafa;
 }
-.cid-rvb8DOjLme {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rvb8DOjLme .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rvb8DOjLme .formoid {
-  margin: auto;
-}
-.cid-rvb8DOjLme .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rvb8DOjLme .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rvb8DOjLme a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rvb8DOjLme a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rvb8DOjLme .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rvb8DOjLme .form-group,
-  .cid-rvb8DOjLme .input-group-btn,
-  .cid-rvb8DOjLme .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rvb8DOjLme .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
 .cid-rkxDNDvAVA {
   padding-top: 75px;
   padding-bottom: 0px;
