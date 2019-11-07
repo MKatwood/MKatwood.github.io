@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mop Boy: The Game!",
-    "currentPage": "demo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -41,11 +41,16 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 56,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-16x16.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "google-analytics": ""
+    "google-analytics": "",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "demo.html": {
