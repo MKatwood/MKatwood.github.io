@@ -1,0 +1,15 @@
+DirectoryIndex index.php
+Options -MultiViews
+RewriteBase /
+RewriteEngine On
+
+Options +FollowSymLinks -MultiViews
+
+# RewriteCond %{SCRIPT_FILENAME} !-d
+
+# RewriteCond %{SCRIPT_FILENAME} !-f  
+
+# RewriteRule ^menu-(.+)_([0-9]+)$ /menu.php?y=k&c=$2 [NC,QSA,L]
+
+RewriteEngine on
+RewriteRule ^menu-(.*)_(.*)$ /menu.php?y=k&c=$2
